@@ -1,3 +1,10 @@
+# About the project
+
+## Description
+
+This project was made by me to start to learn React. This is a example of a showcase website.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
