@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was made by me to start to learn React. This is a example of a showcase website.
+This project was made by me to start to learn React. This is an example of a showcase website.
 
 
 # Getting Started with Create React App
