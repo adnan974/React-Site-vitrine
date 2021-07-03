@@ -5,6 +5,7 @@ import Home from "./Pages/Home.js";
 import Services from "./Pages/Services.js";
 import Products from "./Pages/Products.js";
 import SignUp from "./Pages/SignUp.js";
+import React from 'react';
 
 function App() {
   return (
